@@ -1,0 +1,66 @@
+{
+  "generatedAt": "2026-10-24T21:33:04.435Z",
+  "tool": "Playwright + Chromium",
+  "shots": [
+    {
+      "file": "01-landing.png",
+      "title": "Landing page",
+      "viewport": "1440 × 900 desktop"
+    },
+    {
+      "file": "02-login.png",
+      "title": "Login with demo mode",
+      "viewport": "1440 × 900 desktop"
+    },
+    {
+      "file": "03-dashboard.png",
+      "title": "Student dashboard",
+      "viewport": "1440 × 900 desktop"
+    },
+    {
+      "file": "04-study-planner.png",
+      "title": "AI Study Planner — generated plan",
+      "viewport": "1440 × 900 desktop"
+    },
+    {
+      "file": "05-doubts.png",
+      "title": "Doubt-sharing platform",
+      "viewport": "1440 × 900 desktop"
+    },
+    {
+      "file": "06-attendance.png",
+      "title": "Attendance dashboard",
+      "viewport": "1440 × 900 desktop"
+    },
+    {
+      "file": "07-lecture-translator.png",
+      "title": "Lecture translator (demonstration mode)",
+      "viewport": "1440 × 900 desktop"
+    },
+    {
+      "file": "08-lost-found.png",
+      "title": "Lost & found feed",
+      "viewport": "1440 × 900 desktop"
+    },
+    {
+      "file": "09-calendar.png",
+      "title": "Timetable & events — month view",
+      "viewport": "1440 × 900 desktop"
+    },
+    {
+      "file": "10-faculty.png",
+      "title": "Faculty console",
+      "viewport": "1440 × 900 desktop"
+    },
+    {
+      "file": "11-admin.png",
+      "title": "Admin console",
+      "viewport": "1440 × 900 desktop"
+    },
+    {
+      "file": "12-mobile-dashboard.png",
+      "title": "Mobile responsive dashboard",
+      "viewport": "390 × 844 mobile"
+    }
+  ]
+}
